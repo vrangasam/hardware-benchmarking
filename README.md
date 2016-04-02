@@ -1,0 +1,2 @@
+# hardware-benchmarking
+The application is designed to benchmark different parts of the computer such as CPU, Memory and Disk. These experiments were executed on AWS EC2 t2.micro instance and the results were recorded. The results are then comparatively analyzed with theoretical calculations and best performance results from popular bench marks such as LinPack (CPU), Stream (Memory) and IOZone (Disk).
